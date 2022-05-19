@@ -1,0 +1,118 @@
+2022-05-17 18:05:838 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:758 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:32 INFO  Homepage :25 - Clicking On SignIn link by: Sign in
+2022-05-17 19:05:630 INFO  SignInPage :39 - Sending Password : to 
+2022-05-17 19:05:21 INFO  SignInPage :43 - Sending Password :123456 to 
+2022-05-17 19:05:217 INFO  SignInPage :47 - Clicking on sign in button: Sign in
+2022-05-17 19:05:289 INFO  SignInPage :53 - Getting authentication Failed Message Text from: AUTHENTICATION
+2022-05-17 19:05:656 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:01 INFO  Homepage :25 - Clicking On SignIn link by: Sign in
+2022-05-17 19:05:464 INFO  SignInPage :39 - Sending Password :abcd@gmail.com to 
+2022-05-17 19:05:616 INFO  SignInPage :43 - Sending Password : to 
+2022-05-17 19:05:709 INFO  SignInPage :47 - Clicking on sign in button: Sign in
+2022-05-17 19:05:93 INFO  SignInPage :53 - Getting authentication Failed Message Text from: AUTHENTICATION
+2022-05-17 19:05:201 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:774 INFO  Homepage :25 - Clicking On SignIn link by: Sign in
+2022-05-17 19:05:268 INFO  SignInPage :39 - Sending Password :adfdfgfg to 
+2022-05-17 19:05:580 INFO  SignInPage :43 - Sending Password :123456 to 
+2022-05-17 19:05:769 INFO  SignInPage :47 - Clicking on sign in button: Sign in
+2022-05-17 19:05:677 INFO  SignInPage :53 - Getting authentication Failed Message Text from: AUTHENTICATION
+2022-05-17 19:05:974 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:497 INFO  Homepage :25 - Clicking On SignIn link by: Sign in
+2022-05-17 19:05:603 INFO  SignInPage :39 - Sending Password :abcd@gmail.com to 
+2022-05-17 19:05:708 INFO  SignInPage :43 - Sending Password :123456 to 
+2022-05-17 19:05:799 INFO  SignInPage :47 - Clicking on sign in button: Sign in
+2022-05-17 19:05:607 INFO  SignInPage :53 - Getting authentication Failed Message Text from: AUTHENTICATION
+2022-05-17 19:05:183 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:586 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (e3c9f0e425b78082be7ad6f76abd3417)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 19:05:283 INFO  SignInPage :39 - Sending Password : to [[ChromeDriver: chrome on WINDOWS (e3c9f0e425b78082be7ad6f76abd3417)] -> xpath: //input[@id='email']]
+2022-05-17 19:05:603 INFO  SignInPage :43 - Sending Password :123456 to [[ChromeDriver: chrome on WINDOWS (e3c9f0e425b78082be7ad6f76abd3417)] -> xpath: //input[@id='passwd']]
+2022-05-17 19:05:62 INFO  SignInPage :47 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (e3c9f0e425b78082be7ad6f76abd3417)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 19:05:916 INFO  SignInPage :53 - Getting authentication Failed Message Text from: [[ChromeDriver: chrome on WINDOWS (e3c9f0e425b78082be7ad6f76abd3417)] -> css selector: .page-heading]
+2022-05-17 19:05:652 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:378 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (92297e5b8bb454e96e06905b14536062)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 19:05:933 INFO  SignInPage :39 - Sending Password :abcd@gmail.com to [[ChromeDriver: chrome on WINDOWS (92297e5b8bb454e96e06905b14536062)] -> xpath: //input[@id='email']]
+2022-05-17 19:05:49 INFO  SignInPage :43 - Sending Password : to [[ChromeDriver: chrome on WINDOWS (92297e5b8bb454e96e06905b14536062)] -> xpath: //input[@id='passwd']]
+2022-05-17 19:05:130 INFO  SignInPage :47 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (92297e5b8bb454e96e06905b14536062)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 19:05:649 INFO  SignInPage :53 - Getting authentication Failed Message Text from: [[ChromeDriver: chrome on WINDOWS (92297e5b8bb454e96e06905b14536062)] -> css selector: .page-heading]
+2022-05-17 19:05:740 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:613 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (1085667502fe9894cf2c6d55d2e3ac07)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 19:05:463 INFO  SignInPage :39 - Sending Password :adfdfgfg to [[ChromeDriver: chrome on WINDOWS (1085667502fe9894cf2c6d55d2e3ac07)] -> xpath: //input[@id='email']]
+2022-05-17 19:05:554 INFO  SignInPage :43 - Sending Password :123456 to [[ChromeDriver: chrome on WINDOWS (1085667502fe9894cf2c6d55d2e3ac07)] -> xpath: //input[@id='passwd']]
+2022-05-17 19:05:648 INFO  SignInPage :47 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (1085667502fe9894cf2c6d55d2e3ac07)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 19:05:308 INFO  SignInPage :53 - Getting authentication Failed Message Text from: [[ChromeDriver: chrome on WINDOWS (1085667502fe9894cf2c6d55d2e3ac07)] -> css selector: .page-heading]
+2022-05-17 19:05:285 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:293 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (1536468396dc7663d49e67fdd9462218)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 19:05:146 INFO  SignInPage :39 - Sending Password :abcd@gmail.com to [[ChromeDriver: chrome on WINDOWS (1536468396dc7663d49e67fdd9462218)] -> xpath: //input[@id='email']]
+2022-05-17 19:05:228 INFO  SignInPage :43 - Sending Password :123456 to [[ChromeDriver: chrome on WINDOWS (1536468396dc7663d49e67fdd9462218)] -> xpath: //input[@id='passwd']]
+2022-05-17 19:05:315 INFO  SignInPage :47 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (1536468396dc7663d49e67fdd9462218)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 19:05:51 INFO  SignInPage :53 - Getting authentication Failed Message Text from: [[ChromeDriver: chrome on WINDOWS (1536468396dc7663d49e67fdd9462218)] -> css selector: .page-heading]
+2022-05-17 19:05:118 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 19:05:637 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (3bdc176ccc91e1ebb344fe576dce54d7)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 19:05:918 INFO  SignInPage :65 - entering username96@gmail.com to emialID field: [[ChromeDriver: chrome on WINDOWS (3bdc176ccc91e1ebb344fe576dce54d7)] -> xpath: //input[@id='email']]
+2022-05-17 19:05:257 INFO  SignInPage :69 - Entering 123456789 to password field: [[ChromeDriver: chrome on WINDOWS (3bdc176ccc91e1ebb344fe576dce54d7)] -> xpath: //input[@id='passwd']]
+2022-05-17 19:05:351 INFO  SignInPage :51 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (3bdc176ccc91e1ebb344fe576dce54d7)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 19:05:769 INFO  SignInPage :61 - Getting Text of sign out link : [[ChromeDriver: chrome on WINDOWS (3bdc176ccc91e1ebb344fe576dce54d7)] -> link text: Sign out]
+2022-05-17 20:05:855 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:40 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (0f6ea340cb415aaf051756eca996b74b)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 20:05:660 INFO  SignInPage :63 - entering username96@gmail.com to emialID field: [[ChromeDriver: chrome on WINDOWS (0f6ea340cb415aaf051756eca996b74b)] -> xpath: //input[@id='email']]
+2022-05-17 20:05:595 INFO  SignInPage :67 - Entering 123456789 to password field: [[ChromeDriver: chrome on WINDOWS (0f6ea340cb415aaf051756eca996b74b)] -> xpath: //input[@id='passwd']]
+2022-05-17 20:05:680 INFO  SignInPage :51 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (0f6ea340cb415aaf051756eca996b74b)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 20:05:81 INFO  SignInPage :71 - Clicking on Sign out link :[[ChromeDriver: chrome on WINDOWS (0f6ea340cb415aaf051756eca996b74b)] -> link text: Sign out]
+2022-05-17 20:05:924 INFO  Homepage :29 - Getting Text Of Sign In link :[[ChromeDriver: chrome on WINDOWS (0f6ea340cb415aaf051756eca996b74b)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 20:05:811 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:398 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (b52ea0499ae8c8f1c0a14aaef47a764d)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 20:05:582 INFO  SignInPage :63 - entering username96@gmail.com to emialID field: [[ChromeDriver: chrome on WINDOWS (b52ea0499ae8c8f1c0a14aaef47a764d)] -> xpath: //input[@id='email']]
+2022-05-17 20:05:692 INFO  SignInPage :67 - Entering 123456789 to password field: [[ChromeDriver: chrome on WINDOWS (b52ea0499ae8c8f1c0a14aaef47a764d)] -> xpath: //input[@id='passwd']]
+2022-05-17 20:05:765 INFO  SignInPage :51 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (b52ea0499ae8c8f1c0a14aaef47a764d)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 20:05:379 INFO  SignInPage :71 - Clicking on Sign out link :[[ChromeDriver: chrome on WINDOWS (b52ea0499ae8c8f1c0a14aaef47a764d)] -> link text: Sign out]
+2022-05-17 20:05:645 INFO  Homepage :29 - Getting Text Of Sign In link :[[ChromeDriver: chrome on WINDOWS (b52ea0499ae8c8f1c0a14aaef47a764d)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 20:05:768 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:898 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (a2f611e567b0f43bc80d3c791734773d)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 20:05:364 INFO  SignInPage :63 - entering username96@gmail.com to emialID field: [[ChromeDriver: chrome on WINDOWS (a2f611e567b0f43bc80d3c791734773d)] -> xpath: //input[@id='email']]
+2022-05-17 20:05:709 INFO  SignInPage :67 - Entering 123456789 to password field: [[ChromeDriver: chrome on WINDOWS (a2f611e567b0f43bc80d3c791734773d)] -> xpath: //input[@id='passwd']]
+2022-05-17 20:05:797 INFO  SignInPage :51 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (a2f611e567b0f43bc80d3c791734773d)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-17 20:05:911 INFO  Homepage :29 - Getting Text Of Sign In link :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Sign in')]'
+2022-05-18 17:05:727 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 17:05:387 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (d81246d03a79342c4cfe381c4822e1b2)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-18 17:05:915 INFO  SignInPage :67 - Entering 123456789 to password field: [[ChromeDriver: chrome on WINDOWS (d81246d03a79342c4cfe381c4822e1b2)] -> xpath: //input[@id='passwd']]
+2022-05-18 17:05:329 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 17:05:94 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (4ef1b10c7303e7e1417f25a8b86dea71)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-18 17:05:351 INFO  SignInPage :67 - Entering 123456789 to password field: [[ChromeDriver: chrome on WINDOWS (4ef1b10c7303e7e1417f25a8b86dea71)] -> xpath: //input[@id='passwd']]
+2022-05-18 18:05:771 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 18:05:214 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (c182908e56d826dadabdb8f3a3fd2e2b)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-18 18:05:272 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 18:05:546 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (f313e5bb64e7522ea97b6d5eeeb11393)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-18 18:05:933 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 18:05:616 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (8f75b3587105add741c6451657068945)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-18 19:05:59 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 19:05:427 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (5930828eb4b28f4548079264c5cf413c)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-18 19:05:55 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 19:05:977 INFO  Homepage :25 - Clicking On SignIn link by: [[ChromeDriver: chrome on WINDOWS (5d964c0e809be7f21f786e581d0f7ea5)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-18 19:05:691 INFO  SignInPage :67 - Entering 123456789 to password field: [[ChromeDriver: chrome on WINDOWS (5d964c0e809be7f21f786e581d0f7ea5)] -> xpath: //input[@id='passwd']]
+2022-05-18 19:05:502 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 19:05:130 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 19:05:474 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:522 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:580 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:677 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:914 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:457 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:699 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:657 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:176 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:719 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:517 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:295 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:452 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:505 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:50 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:196 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:664 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:421 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:290 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:888 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:394 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:748 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:366 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 16:05:276 INFO  ManageDriver :33 - Launching Chrome Browser
